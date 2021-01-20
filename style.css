@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(56, 56, 56);
+    height: 100vh;
+    display: flex;
+}
+
+#glass {
+    width: 55.5vh;
+    height: 83vh;
+
+    background-color: black;
+    margin: auto;
+    position: relative;
+}
+
+/*block red*/
+.block {
+    width: 5vh;
+    height: 5vh;
+    margin: 0.5vh;
+    position: absolute;
+}
+
+.red {
+    background-color: brown;
+}
+
+.green {
+    background-color: green;
+}
